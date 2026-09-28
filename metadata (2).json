@@ -1,0 +1,6 @@
+{
+  "name": "OceanScope",
+  "description": "Explore the hidden world beneath our oceans. Discover ocean temperature, salinity, currents, marine life, depth and changing ocean conditions through an interactive 3D experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
